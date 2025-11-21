@@ -1,0 +1,7 @@
+{
+  "name": "Mantra",
+  "description": "Plataforma de Atendimento Inteligente e Gestão de Negócios com módulo administrativo Frota.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
